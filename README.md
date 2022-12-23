@@ -37,11 +37,17 @@ For each test case, output in a single line the minimum number of players who ne
 ### Sample Input 1 
 
 3
+
 4 10
+
 2 13 4 16
+
 5 8
+
 9 3 8 8 4
+
 4 6
+
 1 2 3 4
 
 ### Sample Output 1 
