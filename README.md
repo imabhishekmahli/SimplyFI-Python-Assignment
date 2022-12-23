@@ -1,9 +1,9 @@
 # SimplyFI-Python-Assignment
 
-# Q 1.
+# Question 1
 ![src text](https://github.com/imabhishekmahli/SimplyFI-Python-Assignment/blob/main/screenshots/Q1.png)
 
-# Q 2.# Question 2
+# Question 2
 You won’t get caught if you hide behind someone.”
 Sang-Woo advises Gi-Hun to hide behind someone to avoid getting shot.
 Gi-Hun follows Sang-Woo's advice and hides behind Ali, who saved his life earlier. Gi-Hun and Ali both have the same height, K. 
